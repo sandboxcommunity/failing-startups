@@ -5,7 +5,7 @@ NOTE: Sandbox Startups will be referred to as any of the following phrases durin
 <br>
 
 
-This article is written by a concerned member of the community surrounding tech startups such as (Brick-Hill.com)[https://brick-hill.com], (Brickplanet.com)[https://brickplanet.com], (Polytoria.com)[https://polytoria.com] and many others as most of these startup compaines, while they've maintained themselves from anywhere up to half a decade all the way up to just this year alone, they're all going to fail without some much needed bettering of their own comapines.
+This article is written by a concerned member of the community surrounding tech startups such as https://brick-Hill.com, https://brickplanet.com, https://polytoria.com and many others as most of these startup compaines, while they've maintained themselves from anywhere up to half a decade all the way up to just this year alone, they're all going to fail without some much needed bettering of their own comapines.
 
 Although I, the author of this article, would prefer to stay anonymous, I'll give you a little context as to what I've done to try and better this community.
 
